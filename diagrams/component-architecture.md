@@ -1,4 +1,3 @@
-// TARGET: arch diagrams/component-architecture.md
 
 # Component Architecture
 

@@ -1,4 +1,3 @@
-// TARGET: arch docs/diagram-conventions.md
 
 # Diagram Conventions
 

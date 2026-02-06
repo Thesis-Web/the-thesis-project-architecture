@@ -1,4 +1,3 @@
-// TARGET: arch docs/glossary.md
 
 # Glossary
 
